@@ -4,7 +4,7 @@ Reactjs 製作倒數計時器，搭配 `moment.js` 幫助我們快速格式化�
 
 ![Imgur](http://i.imgur.com/XPp0Tzw.gif)
 
-##[DEMO](https://reactmaker.github.io/react_challenge_countdown_timer/)
+## [DEMO](https://reactmaker.github.io/react_challenge_countdown_timer/)
 
 ## 特色
 
